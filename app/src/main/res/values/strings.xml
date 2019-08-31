@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SmartCity</string>
+    <string name="select">Select</string>
+    <string name="enter_your_city">Enter your city</string>
+    <string name="enter_your_destination">Enter your destination</string>
+    <string name="title_activity_location_select">LocationSelect</string>
+</resources>
